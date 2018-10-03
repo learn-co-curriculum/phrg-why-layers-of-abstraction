@@ -8,4 +8,7 @@ With Rails, you'll understand how HTTP works and how Rails is able to translate 
 
 Be prepared! It's going to be hard to go up layers of abstraction. You are no longer just a driver on the web. You are now a maker on the web.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-why-layers-of-abstraction/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-why-layers-of-abstraction/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Increasing Layers of Abstraction</p>
